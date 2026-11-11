@@ -18,5 +18,5 @@
 
 
 
-#### AI Tools Used A table covering every area where Antigravity was used: bug diagnosis, architecture, pooling, persistent storage, input lag diagnosis, UI integration, code review, refactoring, and documentation.
+#### AI Tools Used A table covering every area where ChatGPT/Claude was used: bug diagnosis, architecture, pooling, persistent storage, input lag diagnosis, UI integration, code review, refactoring, and documentation.
 
